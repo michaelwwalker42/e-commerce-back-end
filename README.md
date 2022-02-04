@@ -15,9 +15,14 @@
   - Clone the repo: `git clone git@github.com:michaelwwalker42/e-commerce-back-end.git`  
   - Initialize node: `npm init --y`  
   - Install dependencies:  `npm i express sequelize mysql2`
+  - Create a .env file and add the following to it:  
+
+      - DB_NAME= 'ecommerce_db'
+      - DB_USER= '`your mysql user name`'
+      - DB_PW= '`your mysql password`'
 
   ## Usage
-  video link here
+  [Click here for video demo.](https://watch.screencastify.com/v/ZG0HElRAPWD5ApS9MjQV)
 
   ## License
 
