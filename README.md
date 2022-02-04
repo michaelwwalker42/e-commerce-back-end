@@ -18,11 +18,13 @@
   - Create a .env file and add the following to it:  
 
       - DB_NAME= 'ecommerce_db'
-      - DB_USER= '`your mysql user name`'
-      - DB_PW= '`your mysql password`'
+      - DB_USER= 'your mysql user name'
+      - DB_PW= 'your mysql password'
 
   ## Usage
-  [Click here for video demo.](https://watch.screencastify.com/v/ZG0HElRAPWD5ApS9MjQV)
+  [Click here for video demo.](https://watch.screencastify.com/v/ZG0HElRAPWD5ApS9MjQV)  
+
+  ![ecommerce-backend-demo](assets/images/e-commerce-backend-demo.gif)
 
   ## License
 
